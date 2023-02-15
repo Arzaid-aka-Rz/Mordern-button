@@ -40,3 +40,8 @@
 .pink-bttn:hover::before{
     transform: scaleX(1);
 }
+
+.pink-bttn:hover {
+    cursor: pointer;
+}
+
